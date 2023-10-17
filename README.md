@@ -5,6 +5,6 @@
 - 📫 Business Inquiries: johnphilip.b.patacsil@gmail.com
 
 <!---
-johnphilip-patacsil/johnphilip-patacsil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+johnphilip-patacsil/portfolio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
